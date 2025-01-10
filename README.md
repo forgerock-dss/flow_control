@@ -1,2 +1,2 @@
 # flow_control
-repository to demonstrate A/B journey testing via the flow control node
+Repository to demonstrate A/B journey testing via the flow control node. For instructions check out this XXX blog.
